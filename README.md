@@ -31,7 +31,7 @@
 
 ### 创建层
 
-- 函数依赖的层，其中包含高版本的gcc 动态连接库依赖, 
+- 函数依赖的层，其中包含高版本的gcc 动态连接库依赖库
 - 见release文件: [1253970226_gcc_11_2_0_lib64_1.zip](https://github.com/ServerlessBravo/astc-compression-demo/releases/download/1.0/1253970226_gcc_11_2_0_lib64_1.zip)
 
 ![](https://user-images.githubusercontent.com/251222/174716268-4e1295d0-2ede-46c4-a065-3267c01b6572.jpg)
